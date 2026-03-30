@@ -64,7 +64,7 @@ These libraries will be installed automatically by the Arduino Library Manager i
 ---
 
 ## WebApp
-Folder `webapp/` contains a Web Serial-based dashboard (`index.html`, `app.js`, `style.css`).
+Folder `Webapp/` contains a Web Serial-based dashboard (`index.html`, `app.js`, `style.css`).
 
 Important notes:
 - The webapp **does NOT require any CSS to function** — the JavaScript logic parses serial lines and displays context even if `style.css` is missing. CSS is **optional** and only changes appearance.
@@ -104,4 +104,28 @@ void loop() {
 ---
 
 ## License
-MIT
+MIT License
+
+Copyright (c) 2025 Herobrine Pixel
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+## Author
+### Herobrine Pixel
+### 2026
