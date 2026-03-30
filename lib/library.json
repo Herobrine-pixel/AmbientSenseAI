@@ -16,13 +16,13 @@
   "description": "AI-style context detector using multiple common environmental sensors for Arduino.",
   "authors": [
     {
-      "name": "Herobrine Sah",
+      "name": "Herobrine Pixel",
       "maintainer": true
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/HerobrinePixel/AmbientSenseAI"
+    "url": "https://github.com/Herobrine-pixel/AmbientSenseAI.git"
   },
   "frameworks": [
     "arduino"
